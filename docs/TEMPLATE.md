@@ -1,13 +1,15 @@
-# Innovation:
+
+
+## Innovation:
 Beskriv er idé och vilket unikt kundvärde ni skapar genom den.
 
-# Teknik:
+## Teknik:
 Beskriv er tekniska lösning och framtida tillväxtmöjligheter.
 
-# Kommersiell möjlighet:
+## Kommersiell möjlighet:
 Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten. Beskriv er kund, vad som är viktig för dem och hur når ni dem.
 
-# Entreprenörskap och affärsmässighet:
+## Entreprenörskap och affärsmässighet:
 Beskriv varför just du/ni kommer lyckas genomföra din/er idé.
 
 
