@@ -1,12 +1,11 @@
-# Talkie / voicecast
+# Talkie // voice cast
 
 Async calls
 
 
-
-
 ### Innovation:
 (Beskriv er idé och vilket unikt kundvärde ni skapar genom den.)
+
 
 ### Teknik:
 Beskriv er tekniska lösning och framtida tillväxtmöjligheter.
