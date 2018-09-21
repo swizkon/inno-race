@@ -1,5 +1,4 @@
-# Talkie
-## Voice cast
+# Talkie / voicecast
 
 Async calls
 
