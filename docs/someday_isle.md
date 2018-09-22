@@ -17,11 +17,15 @@ Someday Isle är en plattform för att hjälpa folk att realisera sina drömmar 
 PERSON X 
 
 ### Teknik:
-Beskriv er tekniska lösning och framtida tillväxtmöjligheter.
+(Beskriv er tekniska lösning och framtida tillväxtmöjligheter)
+
+
+
 
 ### Kommersiell möjlighet:
 (Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten. Beskriv er kund, vad som är viktig för dem och hur når ni dem)
 
+Det finns en mängd företag som tycker att just deras metoder och produkter är de rätta för att människor ska lyckas nå sina mål. 
 
 
 
