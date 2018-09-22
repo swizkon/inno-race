@@ -25,12 +25,12 @@ Användare kan sända röstmeddelanden till sin publika/begränsade kanal eller 
 
 Användaren ska till en början få upplevelsen via en native-app i sin iOS/Android Smartphone, men där konceptet verkligen kommer skina är vid bruk i ex Apple watch. I framtiden ser jag integrationer i bilar samt tjänster som Spotify.
 
-Backend-infrastruktur för att driva appen bör kunna sättas upp på valfri cloud-leveransörs plattform.
+Backend-infrastruktur för att driva appen bör kunna sättas upp på valfri cloud-leverantörs plattform.
 
 ### Kommersiell möjlighet:
 (Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten. Beskriv er kund, vad som är viktig för dem och hur når ni dem)
 
-
+Användaren av tjänsten är en person som föredrar att prata framför SMS, men inte vill slösa sin egen och andras tid på omringningar.
 
 
 
