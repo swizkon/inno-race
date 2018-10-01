@@ -4,6 +4,8 @@
 ## Innovation:
 *Beskriv er idé och vilket unikt kundvärde ni skapar genom den.*
 
+DailyOps / Forgotten är en app för att hjälpa människor att etablera nya vanor.
+
 
 
 
