@@ -2,6 +2,8 @@
 
 ## Innovation:
 *Beskriv er idé och vilket unikt kundvärde ni skapar genom den.*
+XingZen är en finansiell tjänst som tar fördelarna med kontanter in i den digitala världen.
+
 
 ## Teknik:
 *Beskriv er tekniska lösning och framtida tillväxtmöjligheter.*
