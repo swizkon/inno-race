@@ -22,10 +22,12 @@ PERSON X
 
 
 
+
 ### Kommersiell möjlighet:
 *(Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten. Beskriv er kund, vad som är viktig för dem och hur når ni dem)*
 
 Det finns en mängd företag som tycker att just deras metoder och produkter är de rätta för att människor ska lyckas nå sina mål. 
+Mha gamification kan man få 
 
 
 
