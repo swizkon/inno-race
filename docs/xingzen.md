@@ -6,11 +6,13 @@
 XingZen är en finansiell tjänst som tar fördelarna med kontanter in i den digitala världen.
 
 
+
+
 ## Teknik:
 *Beskriv er tekniska lösning och framtida tillväxtmöjligheter.*
 
-Med hjälp av ett enkelt gränssnitt som genererar unika QR-koden kan användare skapa betalningar
-som kan godkännas av 
+Med hjälp av ett enkelt gränssnitt som genererar unika QR-koden kan säljare skapa betalningar
+som kan genomföras av köpare genom att scanna QR-koden och sedan godkänna.
 
 
 
