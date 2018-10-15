@@ -11,8 +11,8 @@ XingZen är en finansiell tjänst som tar fördelarna med kontanter in i den dig
 ## Teknik:
 *Beskriv er tekniska lösning och framtida tillväxtmöjligheter.*
 
-Med hjälp av ett enkelt gränssnitt som genererar unika QR-koden kan säljare skapa betalningar
-som kan genomföras av köpare genom att scanna QR-koden och sedan godkänna.
+Med hjälp av ett enkelt gränssnitt som genererar unika QR-koder kan säljare skapa betalningar, 
+som sedan genomförs av köpare genom att scanna QR-koden och sedan godkänna.
 
 
 
@@ -20,7 +20,8 @@ som kan genomföras av köpare genom att scanna QR-koden och sedan godkänna.
 *Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten.
 Beskriv er kund, vad som är viktig för dem och hur når ni dem.*
 
-I fas 1 finns det största kundbehovet inom 
+I fas 1 finns det största kundbehovet privatpersoner emellan, exempelvis överföringar av mindre summor
+mellan vänner och köp på loppmarknader etc.
 
 
 ## Entreprenörskap och affärsmässighet:
