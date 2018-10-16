@@ -33,8 +33,7 @@ https://xingzen-webapp.azurewebsites.net
 *Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten.
 Beskriv er kund, vad som är viktig för dem och hur når ni dem.*
 
-Målgruppen är alla som idag gillar att använda kontaktlösa kort och/eller swish, men som vill ha ett
-enklare och säkrare sätt att skicka betalningar. Det bör gå att 
+Målgruppen är alla som idag gillar att använda kontaktlösa kort och/eller swish, men som vill ha ett enklare och säkrare sätt att skicka betalningar. Det bör vara möjligt att konvertera ca 50% av swish-betalningar mellan privatpersoner först året.
 
 I första fasen finns det största kundbehovet privatpersoner emellan, exempelvis överföringar av mindre summor
 mellan vänner och köp på loppmarknader etc.
@@ -42,6 +41,8 @@ mellan vänner och köp på loppmarknader etc.
 Nästa steg är att bygga store-koncept där en kassa-device kan skapa mer specificerade köpordrar och stödja momsredovisning mm.
 
 I och med att det är möjligt att stödja flera valutor bör det i senare skede skapas en handelssite för att växla valutor med andra aktörer i systemet. Dessa aktörer kan både vara privatpersoner eller växlingskontor.
+
+Tjänsten har även fördelen att drivas av hårdvara som de flesta redan har eller som är billig att köpa in. Det enda som krävs är en smartphone eller surfplatta.
 
 ## Entreprenörskap och affärsmässighet:
 *Beskriv varför just du/ni kommer lyckas genomföra din/er idé.*
