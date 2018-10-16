@@ -14,10 +14,14 @@ Tjänsten ska fungera för alla oavsett ålder och nationalitet, även för dem 
 Med hjälp av ett enkelt gränssnitt som genererar unika QR-koder kan säljare skapa betalningar, 
 som sedan genomförs av köpare genom att scanna QR-koden och sedan godkänna.
 
-Genom att överföra pengar till en online-plånbok kan man 
+Genom att överföra pengar till en online-plånbok kan man i ett steg otföra en säker betalning till systemet.
+För att använda pengar på ens konto behövs ingen ytterliggare autentisering.
 
 Första utgåvan av systemet består av appar för iOS/android, en web site samt ett Web API uppsäkrat enl FAPI guidelines.
-Komande versioner kan tänkas innehålla stöd för exempelvis momsredovisning och kvitto online.
+Kommande versioner kan tänkas innehålla stöd för exempelvis momsredovisning och kvitto online samt mer detaljerad specifikation.
+
+Demo:
+https://xingzen-webapp.azurewebsites.net
 
 ## Kommersiell möjlighet:
 *Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten.
