@@ -11,13 +11,13 @@ Tjänsten ska fungera för alla oavsett ålder och nationalitet, även för dem 
 ## Teknik:
 *Beskriv er tekniska lösning och framtida tillväxtmöjligheter.*
 
-Första utgåvan 
-
 Med hjälp av ett enkelt gränssnitt som genererar unika QR-koder kan säljare skapa betalningar, 
 som sedan genomförs av köpare genom att scanna QR-koden och sedan godkänna.
 
 Genom att överföra pengar till en online-plånbok kan man 
 
+Första utgåvan av systemet består av appar för iOS/android, en web site samt ett Web API uppsäkrat enl FAPI guidelines.
+Komande versioner kan tänkas innehålla stöd för exempelvis momsredovisning och kvitto online.
 
 ## Kommersiell möjlighet:
 *Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten.
@@ -30,7 +30,7 @@ I första fasen finns det största kundbehovet privatpersoner emellan, exempelvi
 mellan vänner och köp på loppmarknader etc.
 Nästa steg är att bygga store-koncept där en kassa-device kan skapa mer specificerade köpordrar och stödja momsredovisning mm.
 
-I och med att det är möjligt att stödja alla valutor
+I och med att det är möjligt att stödja flera valutor bör det i senare skede skapas en handelssite för att växla valutor med andra aktörer i systemet.
 
 ## Entreprenörskap och affärsmässighet:
 *Beskriv varför just du/ni kommer lyckas genomföra din/er idé.*
