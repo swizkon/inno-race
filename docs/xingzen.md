@@ -23,12 +23,14 @@ Genom att överföra pengar till en online-plånbok kan man
 *Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten.
 Beskriv er kund, vad som är viktig för dem och hur når ni dem.*
 
-Jag tror att 
+Målgruppen är alla som idag gillar att använda kontaktlösa kort och/eller swish, men som vill ha ett
+enklare och säkrare sätt att skicka betalningar.
 
 I första fasen finns det största kundbehovet privatpersoner emellan, exempelvis överföringar av mindre summor
 mellan vänner och köp på loppmarknader etc.
-Nästa steg är att bygga store-koncept 
+Nästa steg är att bygga store-koncept där en kassa-device kan skapa mer specificerade köpordrar och stödja momsredovisning mm.
 
+I och med att det är möjligt att stödja alla valutor
 
 ## Entreprenörskap och affärsmässighet:
 *Beskriv varför just du/ni kommer lyckas genomföra din/er idé.*
