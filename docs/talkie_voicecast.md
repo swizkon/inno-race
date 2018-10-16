@@ -1,16 +1,16 @@
-# Talkie // voice cast
-
-Async calls
-
+# Talking Tribes // voice cast
 
 ### Innovation:
-(Beskriv er idé och vilket unikt kundvärde ni skapar genom den.)
+*(Beskriv er idé och vilket unikt kundvärde ni skapar genom den.)*
 
-Talkie // voice cast är en app som hyllar vårt fantastiska kommunikationsmedel talet!
+Talking Tribes // voice cast är en app som hyllar vårt fantastiska kommunikationsmedel talet!
 Tal skapar kontakt och berör på ett sätt som textmeddelanden inte alltid kan förmedla.
 
 Appen ska göra det möjligt att kommunicera med tal 1:1 eller i grupp vid de tidpunkter som passar alla deltagande.
 Målet är att kombinera det enkla och varma i mänskligt tal med dagens digi-sociala landskap, dvs att kunna sända meddelanden till specifika personer eller till en grupp/kanal där mottagande sker på prenumerationsbasis.
+
+Konceptet "Conversations" är en distribuerad asynkron podcast där publicering eller prenumeration sker på följarens sätt.
+Exempelvis kan P1 under valet 2022 starta en konversation om "Skolan" och bjuda in partiledarna.
 
 *Konkreta exempel:*
 
@@ -20,7 +20,7 @@ Målet är att kombinera det enkla och varma i mänskligt tal med dagens digi-so
 ### Teknik:
 (Beskriv er tekniska lösning och framtida tillväxtmöjligheter)
 
-Varje användare tar emot röstmeddelanden som skickats direkt till dem eller som har publicerats i kanaler som användaren är intresserad av på en egen "frekvens"/radiokanal. 
+Varje användare tar emot röstmeddelanden som skickats direkt till dem eller som har publicerats i kanaler/konversationer som användaren är intresserad av på en egen "frekvens"/radiokanal. 
 Användare kan sända röstmeddelanden till sin publika/begränsade kanal eller direkt till personer man är kopplad till.
 
 Användaren ska till en början få upplevelsen via en native-app i sin iOS/Android Smartphone, men där konceptet verkligen kommer skina är vid bruk i ex Apple watch. I framtiden ser jag integrationer i bilar samt tjänster som Spotify.
