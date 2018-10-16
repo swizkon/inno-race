@@ -16,13 +16,15 @@ För att använda pengar som överförts till kontot behövs ingen ytterliggare 
 Med hjälp av ett enkelt gränssnitt som genererar unika QR-koder kan säljare skapa betalningar, 
 som sedan godkänns av köparen genom att scanna QR-koden. (Flöde finns i bifogat dokument)
 
-Första utgåvan av systemet består av appar för iOS/android, en web applikation samt ett Web API uppsäkrat enl FAPI guidelines.
+Första utgåvan av systemet består av app för iOS/android, en web applikation samt ett Web API uppsäkrat enl FAPI guidelines.
 Kommande versioner kan tänkas innehålla stöd för exempelvis momsredovisning och kvitto online samt mer detaljerad specifikation.
 
-Den tekniska arkitekturen för v1 grundar sig i event sourcing och netcore alt. erlang/elixir som språk.
+Den tekniska arkitekturen för v1 grundar sig i event sourcing och netcore alt. erlang/elixir som språk. Detta gör att systemet kan driftas i valfri cloud-plattform.
+Vidare tekniker och infrastruktur som kan behöva användas är WebSockets, 
 
 Den första versionen kan vara beroende av extern betaltjänst/checkout som ex PayPal, Amazon eller direktbanksbetalning.
 
+I framtiden behöver man antagligen ta höjd för interaktioner mot smart watch. Detta kan möjligtvis ske genom en ljudsekvens som kan omkodas till ett ID, eller genom GPS-data.
 
 Demo:
 https://xingzen-webapp.azurewebsites.net
@@ -32,7 +34,7 @@ https://xingzen-webapp.azurewebsites.net
 Beskriv er kund, vad som är viktig för dem och hur når ni dem.*
 
 Målgruppen är alla som idag gillar att använda kontaktlösa kort och/eller swish, men som vill ha ett
-enklare och säkrare sätt att skicka betalningar.
+enklare och säkrare sätt att skicka betalningar. Det bör gå att 
 
 I första fasen finns det största kundbehovet privatpersoner emellan, exempelvis överföringar av mindre summor
 mellan vänner och köp på loppmarknader etc.
