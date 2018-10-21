@@ -15,8 +15,12 @@ Someday Isle
 *Konkreta exempel*
 PERSON X 
 
+
+
 ### Teknik:
 *(Beskriv er tekniska lösning och framtida tillväxtmöjligheter)*
+
+
 
 
 
@@ -26,9 +30,10 @@ PERSON X
 *(Beskriv vilken marknadspotential affärsidén har samt tänkta affärsvillkor för produkten/tjänsten. Beskriv er kund, vad som är viktig för dem och hur når ni dem)*
 
 
+Med hjälp av sponsrade program/resor kan man engagera många företag som har bra metoder eller produkter för att lyckas nå personliga mål. Mot en mindre avgift har de möjligheten att länka in sina erbjudanden kopplade till en hel resa eller en specifik uppgift.
+Exempelvis en resa som går ut på att lära sig grundläggande gitarr börjar med uppgiften att skaffa sig en gitarr.
 
-Det finns en mängd företag som tycker att just deras metoder och produkter är de rätta för att människor ska lyckas nå sina mål. 
-Mha gamification kan man få 
+Kunden är en målinriktad person som gillar att anta nya utmaningar och som vill följa en bevisat framgångsrik plan, framtagen av någon som har bra koll på området.
 
 
 
